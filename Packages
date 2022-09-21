@@ -14,3 +14,18 @@ Priority: optional
 Description: Piattaforma web per la gestione delle centraline
   Piattaforma web per la gestione delle centraline di RienergyGroup srl
 
+Package: itherm
+Version: 1.0
+Architecture: arm64
+Essential: no
+Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
+Installed-Size: 5600
+Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
+Filename: ./itherm-1.0_arm64.deb
+Size: 15791988
+MD5sum: 37b4012f30b81d1be51a6c9f19a79407
+SHA1: 1da3d85819abb3150b30c90b567db79a2a3430c4
+SHA256: 020203fe90b68d9918d263761bb70dda7c515e1115bf41c82a4c3cb1f5589844
+Priority: optional
+Description: Script di gestione della centrlina iTherm
+
