@@ -272,10 +272,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
 Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_arm64.deb
-Size: 15793728
-MD5sum: f0fdee5119c32dac16a7b95dd8c03528
-SHA1: 28ead0aaa992ec16fc2a3bee87cf0f3a481271b5
-SHA256: 3e7376c2f24c6965fb1c64e14af73f0584afc34d616da0179e85651413c6a408
+Size: 15793520
+MD5sum: ec7026b7952796efb9cf370c628d15ce
+SHA1: d2f8feb7c2537edecca27ff414ffdaaad6c0340f
+SHA256: 1b931ec509732e0917431be0d12140dfe60f30438341ee1d547f078ddfab00d2
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
