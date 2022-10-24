@@ -103,10 +103,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5
 Filename: ./ble_blue_coin_t-1.0_arm64.deb
-Size: 2692
-MD5sum: c5c93ae7a69dddce94acf76794994d23
-SHA1: fcbb7e3d1dfb33a95b66e479cab4bc1ad750b740
-SHA256: bd19112a823ba57c5d4c58c620c6ed05ef97f28d0d354b44417cd63cef45d625
+Size: 4504
+MD5sum: d64f8a3f3ff5513c69b5cbe20dcf5e29
+SHA1: 303e443658d639f81a6573394afae3f1c8403b78
+SHA256: 2452a8b907fc2f6f1e4423e14f5eaee7870ae25d45253f6049684ed2a71bd98b
 Priority: optional
 Description: Script di gestione del dispositivo ble-blue-coin-t
 
@@ -117,10 +117,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 7
 Filename: ./ble_efento-1.0_arm64.deb
-Size: 2840
-MD5sum: f21af03727ccc4aca859aebf7301203f
-SHA1: def32409d0730f86006c1f5cecd3c8e2b07b6059
-SHA256: 58b6877e5213ff11384ff5e8278e885573f6c4260785309e3e5793452252b46d
+Size: 2844
+MD5sum: 542ce6e04e116f28945ca2def33aab8b
+SHA1: 6f3cc3a239cc3200fc6fe0df0a1e1549276ea03b
+SHA256: c060204acc4d2cbb38a0f9eaf3372c03e4c7ab855f159a1ca290c4941b37daee
 Priority: optional
 Description: Script di gestione del dispositivo ble-efento
 
@@ -131,10 +131,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_mijia_v1-1.0_arm64.deb
-Size: 2860
-MD5sum: 2792d9ee66a3d4d30cc2c2400424921c
-SHA1: 4d8b267a8acc7916a8835157794ef59ceeb76ad6
-SHA256: 2d8cbeaaf530c22e702705e9880824d28a344fa9943e9d087af9e707bebc2bb1
+Size: 2856
+MD5sum: 7bb2f20045e02a89fb19f99a4e625c83
+SHA1: 29ce42279535e55413a3a881eb7dd515caf82655
+SHA256: c40e97749912f4e89999311344b508184000f7468624b0f60922c80aecad06c6
 Priority: optional
 Description: Script di gestione del dispositivo ble-mijia-v1
 
@@ -146,9 +146,9 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_mijia_v2-1.0_arm64.deb
 Size: 2904
-MD5sum: 009219dedadba99fc2a60d5bfae11b86
-SHA1: e065d3d2ee66a365ac670949525ee5da984dd68f
-SHA256: f7cc03e5dc72383a70dfed22f72f2c160fdcb0d128916a2aec085f59ee870e39
+MD5sum: e146e967af8a72da81df65974644ca51
+SHA1: ed3c4398a645bc37642474b08e1f29561a76ba23
+SHA256: dd2170481dd9031ab8fdb17ab03924f5dfc75f5211609a636d8712d1ff18c157
 Priority: optional
 Description: Script di gestione del dispositivo ble-mijia-v2
 
@@ -159,10 +159,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_qingping_th_cgg1-1.0_arm64.deb
-Size: 2932
-MD5sum: 9ba42bacd2d474469f2974a6d9e36e14
-SHA1: 3eb4d6de9e9466c21d08076b27f0c91b8cf2a5d2
-SHA256: b852b26a054a39b8a1e1af7a804a4a3b837e8f74e699f4dc3ec7c9e0ff6f311e
+Size: 4832
+MD5sum: 0f8045d311e5afaff55731a706f72a5c
+SHA1: 1f7039dfe6459e940f0821bc42b92e3c70d30628
+SHA256: 6f5dba9c80dff33f051386afc9cadfbb4842c34ce8987bde21fe79c42f12b47c
 Priority: optional
 Description: Script di gestione del dispositivo ble-qingping-th-cgg1
 
