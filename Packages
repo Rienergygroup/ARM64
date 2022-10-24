@@ -159,10 +159,10 @@ Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 6
 Filename: ./ble_qingping_th_cgg1-1.0_arm64.deb
-Size: 4832
-MD5sum: 0f8045d311e5afaff55731a706f72a5c
-SHA1: 1f7039dfe6459e940f0821bc42b92e3c70d30628
-SHA256: 6f5dba9c80dff33f051386afc9cadfbb4842c34ce8987bde21fe79c42f12b47c
+Size: 4828
+MD5sum: efc917f71a8485d90be26a0c4bc0acd4
+SHA1: 122e4a9231933f49c1219c0de1c83e826c379bde
+SHA256: 53482590b1ff53df220bf00031880faad4b288102ce64a92ae0896d6ff36815c
 Priority: optional
 Description: Script di gestione del dispositivo ble-qingping-th-cgg1
 
