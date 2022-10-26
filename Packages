@@ -266,16 +266,16 @@ Description: Script di gestione del dispositivo ccu3-hmip-wth-2
 
 Package: itherm
 Version: 1.0
-Architecture: arm64
+Architecture: armhf
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
-Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
+Depends: net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_arm64.deb
-Size: 21367420
-MD5sum: b87f284dccb5eb317d5e51af43f6bff0
-SHA1: 10cbeb92abf0e1b5539b7a6470ec33b94a8198fd
-SHA256: 12232ebe9b3a434cf63b8fc7d8a0f970989bdd79e653199a034ade09d82de26d
+Size: 12383524
+MD5sum: ab474afd9ba17a2d345093b8d51f779a
+SHA1: 6c6759bc439ac41f2a0731f42b36bbe7a87cf2ae
+SHA256: e325fe6a1122982154533a95d3cfbe0ff6bf5dbb22ad779d6248e4d8fd8934c5
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
