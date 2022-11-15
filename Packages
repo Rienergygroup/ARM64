@@ -270,12 +270,12 @@ Architecture: arm64
 Essential: no
 Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
-Depends: python3,libsystemd-dev,python3-distutils-extra,snap,snapd,net-tools,wpasupplicant,arp-scan
+Depends: net-tools,wpasupplicant,arp-scan
 Filename: ./itherm-1.0_arm64.deb
-Size: 12385552
-MD5sum: 2fae8c1179f91ddb396cde6f20097101
-SHA1: 0113aca41b988ab949c04f7003f63a7a25f6647e
-SHA256: 80f9b5c6af75e196159f6054c2df8d3afb6268eaacf5902a4357bc471e65309a
+Size: 12385520
+MD5sum: ff5627f386f5342359eb3686559504e2
+SHA1: 63c49e3560a90f32c50348ac9b74cc64966372db
+SHA256: bdcbcae34b54cf68abef242187fe71aa0d35ca986477fa4dd36ccac3ce7d4f6b
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
