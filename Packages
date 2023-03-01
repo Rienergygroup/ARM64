@@ -272,10 +272,10 @@ Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
 Installed-Size: 5600
 Depends: net-tools,wpasupplicant,arp-scan,mosquitto,dnsmasq,hostapd,bluez,lighttpd
 Filename: ./itherm-1.0_arm64.deb
-Size: 12721612
-MD5sum: 905d68e78892eb32bf9aee2d1f728192
-SHA1: 28985d185480ee0694f98b9c38508270c46539b6
-SHA256: 9d4504666e4385bf6fcf9a6954106c0bb7ae2f1c7a07014e561a52de75baea3e
+Size: 12721628
+MD5sum: 92ed628cc764a7ee6d1c877e1a51b4e7
+SHA1: 8afb8e8fc4e86a899779f08146d8233d4a8cd0a8
+SHA256: abe8e4584c20ed3e0abe5b1a9fc0c037052e9be5289077ccb2ce298adf3f4f54
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
