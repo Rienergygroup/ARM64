@@ -279,3 +279,18 @@ SHA256: abe8e4584c20ed3e0abe5b1a9fc0c037052e9be5289077ccb2ce298adf3f4f54
 Priority: optional
 Description: Script di gestione della centrlina iTherm
 
+Package: itherm
+Version: 1.0.1
+Architecture: arm64
+Essential: no
+Maintainer: RienergyGroup srl <rienergygroup.info@gmail.com>
+Installed-Size: 5600
+Depends: net-tools,wpasupplicant,arp-scan,mosquitto,dnsmasq,hostapd,bluez,lighttpd,python3-pip
+Filename: ./itherm-1.0.1_arm64.deb
+Size: 16835644
+MD5sum: e66e278eef1da145d64260339e19f824
+SHA1: 0ed430adb7a138f91957f155f4811c9a02046419
+SHA256: 492cf4b2d4611bd53f57ef4c257ad896f76acb4214305334a991091791a31d35
+Priority: optional
+Description: Script di gestione della centrlina iTherm
+
